@@ -3,31 +3,31 @@
     "latest": "R1.0",
     "latest_date": "Sep 22nd 2023",
     "support": "R1.0",
-    "link": "https://wakamejp.github.io/launcher/px2ms.json"
+    "link": "https://wakamejp.github.io/launcher/release/1.0.jar"
   },
   "beta": {
     "latest": "B1.0",
     "latest_date": "Sep 22nd 2023",
     "support": "B1.0",
-    "link": "https://wakamejp.github.io/launcher/px2ms.json"
+    "link": "https://wakamejp.github.io/launcher/beta/1.0.jar"
   },
   "patch":{
     "release":{
       "latest": "PR1.0",
-      "link": "https://wakamejp.github.io/launcher/patch/pr1.0.jar",
+      "link": "https://wakamejp.github.io/launcher/patch/release/1.0.jar",
       "type": "beta_v1",
       "latest_date": "Sep 22nd 2023"
     },
     "beta":{
       "latest": "PB1.0",
-      "link": "https://wakamejp.github.io/launcher/patch/pb1.0.jar",
+      "link": "https://wakamejp.github.io/launcher/patch/beta/1.0.jar",
       "type": "beta_v1",
       "latest_date": "Sep 22nd 2023"
     },
-    "reader":{
+    "loader":{
       "latest": "beta_v1",
       "latest_date": "Sep 22nd 2023",
-      "link": "https://wakamejp.github.io/launcher/patch/reader_beta_v1.jar"
+      "link": "https://wakamejp.github.io/launcher/patch/loader/beta_v1.jar"
     }
   },
   "server":{
